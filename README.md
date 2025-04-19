@@ -19,4 +19,4 @@
 
 ## Releases
 
-Скачайте `.exe` файл из раздела [Releases](./releases/).
+Скачайте `.exe` файл из раздела [Releases]([./releases/](https://github.com/PorvaniVafo/WPFdashboard/releases/tag/1.0.1)).
