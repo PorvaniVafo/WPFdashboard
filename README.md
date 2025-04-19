@@ -2,8 +2,8 @@
 
 ### LiveCharts | SQLite | API Integration
 
-### [Dashboard Example ][IMAGE 2025-04-19 15:29:01](https://github.com/user-attachments/assets/daeeed75-1509-4afa-b826-80556978418b]
-
+### [Dashboard Example ]
+![IMAGE 2025-04-19 15:29:01](https://github.com/user-attachments/assets/daeeed75-1509-4afa-b826-80556978418b)
 
 ---
 
